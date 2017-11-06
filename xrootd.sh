@@ -1,7 +1,7 @@
 package: XRootD
 version: "%(tag_basename)s"
-tag: v3.3.6-alice2
-source: https://github.com/alisw/xrootd.git
+tag: v4.7.1
+source: https://github.com/xrootd/xrootd.git
 build_requires:
  - CMake
  - "OpenSSL:(?!osx)"

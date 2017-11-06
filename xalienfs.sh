@@ -1,7 +1,7 @@
 package: xalienfs
 version: "%(tag_basename)s"
-tag: v1.0.14r1-alice3
-source: https://github.com/alisw/xalienfs.git
+tag: alice3forxrootd4
+source: https://github.com/graffaele/xalienfs.git
 build_requires:
  - autotools
  - XRootD
