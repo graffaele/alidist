@@ -1,7 +1,7 @@
 package: ROOT
 version: "%(tag_basename)s"
-tag: v5-34-30-alice8
-source: https://github.com/alisw/root
+tag: forXRootD4
+source: https://github.com/graffaele/root
 requires:
   - AliEn-Runtime:(?!.*ppc64)
   - GSL
