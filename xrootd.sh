@@ -1,7 +1,7 @@
 package: XRootD
 version: "v4.8.0"
 tag: master
-source: https://github.com/xrootd/xrootd.git
+source: https://github.com/jknedlik/xrootd 
 build_requires:
  - CMake
  - "OpenSSL:(?!osx)"
