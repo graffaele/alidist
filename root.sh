@@ -1,7 +1,7 @@
 package: ROOT
 version: "%(tag_basename)s"
-tag: v5-34-30-alice10
-source: https://github.com/alisw/root
+tag:  5.34.30.a.10.lr
+source: https://github.com/jknedlik/root
 requires:
   - AliEn-Runtime:(?!.*ppc64)
   - GSL
